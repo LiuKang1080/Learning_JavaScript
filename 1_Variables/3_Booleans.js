@@ -49,6 +49,6 @@ Summary:
 <=      Less than or equal to operator
 */
 
-// AND OR operators in JavaScript:
+// AND, OR operators in JavaScript:
 // AND operator in JavaScript is && 
 // OR operator in JavaScript is || 
