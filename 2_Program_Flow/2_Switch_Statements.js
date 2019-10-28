@@ -9,7 +9,7 @@ switch (variable to compare, in this case num) {
         console.log("case 1")
     break; 
     
-    break statement is REQUIRED!
+    break statement is technically not required, but it is good programming to include at the end of each case statement.
 
     case 2:
         console.log("case 2")
